@@ -1,7 +1,5 @@
 package default_and_static_methods_in_Interfaces;
 
-import java.util.Iterator;
-
 public class MainClass {
     public static void main(String[] args) {
         MyClass ob = new MyClass();
