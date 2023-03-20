@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comparable vs Comparators/Comparable vs Comparators.iml" filepath="$PROJECT_DIR$/Comparable vs Comparators/Comparable vs Comparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImmutableClass/ImmutableClass.iml" filepath="$PROJECT_DIR$/ImmutableClass/ImmutableClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterable/Iterable.iml" filepath="$PROJECT_DIR$/Iterable/Iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8 features/Java 8 features.iml" filepath="$PROJECT_DIR$/Java 8 features/Java 8 features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Course Code.iml" filepath="$PROJECT_DIR$/Java Course Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleInheritanceDemo/MultipleInheritanceDemo.iml" filepath="$PROJECT_DIR$/MultipleInheritanceDemo/MultipleInheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilderandBuffer/StringBuilderandBuffer.iml" filepath="$PROJECT_DIR$/StringBuilderandBuffer/StringBuilderandBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserDefinedException/UserDefinedException.iml" filepath="$PROJECT_DIR$/UserDefinedException/UserDefinedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals and hashCode Methods/equals and hashCode Methods.iml" filepath="$PROJECT_DIR$/equals and hashCode Methods/equals and hashCode Methods.iml" />
+    </modules>
+  </component>
+</project>
