@@ -13,6 +13,5 @@ public class statisticsCollectorDemo {
         System.out.println("Lowest number in List : " + stats.getMin());
         System.out.println("Sum of all numbers : " + stats.getSum());
         System.out.println("Average of all numbers : " + stats.getAverage());
-
     }
 }

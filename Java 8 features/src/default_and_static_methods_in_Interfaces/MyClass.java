@@ -1,7 +1,6 @@
 package default_and_static_methods_in_Interfaces;
 
 public class MyClass implements Interface1, Interface2 {
-
     @Override
     public void method2() {
     }
