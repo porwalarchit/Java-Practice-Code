@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Comparable vs Comparators/Comparable vs Comparators.iml" filepath="$PROJECT_DIR$/Comparable vs Comparators/Comparable vs Comparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImmutableClass/ImmutableClass.iml" filepath="$PROJECT_DIR$/ImmutableClass/ImmutableClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterable/Iterable.iml" filepath="$PROJECT_DIR$/Iterable/Iterable.iml" />
