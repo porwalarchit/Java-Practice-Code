@@ -12,7 +12,7 @@ public class ShallowCopyExample {
         // printing the value of x using reference variable obj1
         System.out.println("The value of x is: " + obj1.x);
 
-        //Adding this comment for checking merge conflicts.
+        //Adding this below code for checking merge conflicts.
         int x;
         x=5234;
         int e=413423;
