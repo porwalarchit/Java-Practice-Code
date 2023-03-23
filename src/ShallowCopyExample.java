@@ -14,7 +14,8 @@ public class ShallowCopyExample {
 
         //Adding this comment for checking merge conflicts.
         int x;
-        x=10;
+        x=5234;
+        int e=413423;
         System.out.println(x);
     }
 }   
