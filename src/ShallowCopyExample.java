@@ -13,5 +13,8 @@ public class ShallowCopyExample {
         System.out.println("The value of x is: " + obj1.x);
 
         //Adding this comment for checking merge conflicts.
+        int x;
+        x=5;
+        System.out.println(x);
     }
 }   
